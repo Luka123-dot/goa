@@ -1,0 +1,49 @@
+body{
+    display: flex;
+    justify-content: space-around;
+}
+.dfd {
+  border: solid blue 3px;
+  text-align: top;
+  display:flex;flex-direction: row;
+  font-size: small;
+  width: 200px;
+  height: 200px;
+  justify-content: space-around;
+  
+  
+}
+h1{
+    background-color: red;
+    width: 25px;
+    height: 25px;
+}
+
+.fdf{  border: solid blue 3px;
+    text-align: top;
+    display:flex;flex-direction: column;
+    font-size: small;
+    width: 200px;
+    height: 200px;
+    justify-content: space-around;
+    margin-left: 5px;
+}
+
+.papa{  border: solid blue 3px;
+    text-align: top;
+    display:flex;flex-direction: row-reverse;
+    font-size: small;
+    width: 200px;
+    height: 200px;
+    justify-content: space-around;
+    
+}
+.gochi{  border: solid blue 3px;
+    text-align: top;
+    display:flex;flex-direction: column-reverse;
+    font-size: small;
+    width: 200px;
+    height: 200px;
+    justify-content: space-around;
+    margin: left;
+}
