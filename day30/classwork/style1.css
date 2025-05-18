@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+h2{
+    text-decoration: underline overline line-through dotted rgb(187, 78, 78);
+    font-family: "Bebas Neue", sans-serif;
+}
