@@ -1,0 +1,22 @@
+.cooler{
+    text-align: center;
+    color: #8A2BE2;
+    font-family: 'Courier New', Courier, monospace;
+}
+.kid{
+    color: #FF4500;
+    font-family: serif;
+}
+.cool{
+    width: 200px;
+    height: 200px;
+}
+.bro{
+    width: 300px;
+    height: 300px;
+    background: #FFDEAD;
+    border: black;
+}
+.ok{
+    background: #D8BFD8;
+}

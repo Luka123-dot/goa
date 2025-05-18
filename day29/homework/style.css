@@ -1,0 +1,24 @@
+.bra{
+    text-align: center;
+    color: #00FFCC;
+    font: 200;
+}
+.atomic{
+    color: #FF9900;
+    font: 350;
+}
+
+.brabra{
+    width: 300px;
+    border-radius: 10px;
+}
+.ok{
+    width: 400px;
+    height: 200px;
+    background-color: blue;
+    color: white;
+}
+
+.ad{
+    background-color: black;
+}
