@@ -1,0 +1,14 @@
+.id{
+    text-decoration: underline solid yellow;
+    color: blue
+}
+
+.bra{
+    text-decoration: line-through solid purple ;
+    color: aqua;
+}
+
+.adadadada{
+    text-decoration: overline solid green;
+    color: pink;
+}
