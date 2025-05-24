@@ -1,7 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap");
 
-p{
+p {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 300;
-  text-decoration: overline dotted dashed, underline  wavy,line-through double ;
-  color: green}
+  text-decoration: overline dotted dashed, underline wavy, line-through double;
+  color: green;
+}
