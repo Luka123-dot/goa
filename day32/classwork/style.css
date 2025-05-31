@@ -1,0 +1,18 @@
+#ada {
+  background-color: rgb(113, 175, 229);
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  left: 150px;
+  top: 200px;
+  z-index: 2;
+}
+#cas{
+  background-color: rgb(42, 123, 123);
+  width: 700px;
+  height: 700px;
+  position: absolute;
+  left: 100px;
+  top: 50px;
+}
+/* we first create the first block which we give a light blue color and we change the width and height. We also give it the position:absolute which makes it absolute. We move it right 150px and move it down 200px. Then we give it a z-index: 2. For the second block, We change its height and width to 70px. we then also change its color. And we give it the positon: absolute. (if you didnt know, positon: absolute makes it so it stands ontop of a different block, unless their both absolute.) we move it right 100px, and bottom 50px */
