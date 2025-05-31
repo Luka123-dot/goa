@@ -1,0 +1,10 @@
+th{
+    background-color: rgb(161, 161, 161);
+}
+table,th,td{
+    border-collapse: collapse;
+}
+td{
+    width: 20%;
+    padding: 5px;
+}
