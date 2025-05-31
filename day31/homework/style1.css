@@ -2,15 +2,16 @@ th {
   background-color: rgb(190, 192, 191);
   text-align: start;
 }
-td{
-    text-align: end;
+td {
+  text-align: end;
 }
-table,th,td{
-    border-collapse: collapse;
-    width: 20%;
-    padding: 5px;
+table,
+th,
+td {
+  border-collapse: collapse;
+  width: 20%;
+  padding: 5px;
 }
-.id{
-    background-color: rgb(220, 220, 220);
-    
+.id {
+  background-color: rgb(220, 220, 220);
 }

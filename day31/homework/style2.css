@@ -1,0 +1,24 @@
+table {
+  width: 60%;
+  border-collapse: collapse;
+  font-family: sans-serif;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  overflow: hidden;
+}
+th {
+  background-color: rgb(48, 151, 122);
+  color: white;
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+td {
+  border: solid 1px #ddd;
+  text-align: center;
+  padding: 10px;
+}
+.id {
+  color: #3e917b;
+  background-color: #f3f3f3;
+}
