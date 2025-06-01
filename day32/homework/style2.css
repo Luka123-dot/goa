@@ -1,0 +1,11 @@
+.chicken_jockey {
+  width: 150px;
+  height: 150px;
+  background-color: blue;
+  position: sticky;
+  top: 100px;
+  left: 50px;
+}
+body {
+  height: 200vh;
+}

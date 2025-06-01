@@ -1,0 +1,13 @@
+.id{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+}
+.id1{
+    height: 50px;
+    width: 50px;
+    position: static;
+    margin-right: 30px;
+    margin-top: 30px;
+    background-color: red;
+}
