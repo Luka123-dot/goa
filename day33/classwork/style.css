@@ -1,0 +1,14 @@
+div {
+  border: 5px solid black;
+  width: 60%;
+  height: 60%;
+  background-color: red;
+}
+body {
+  background-image: url(magic-the-gathering-universes-beyond-lord-of-the-rings-growth.jpg);
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 50%;
+}
+/* the background image adds an image. While the repeat adds multiple of the picture. The background position makes it so it is stabilized in the center. And we halve it by giving it a 50 percent background size. */
+/* In the div tag we first give it a solid black 5 pixel border. Then we change its height and width to 60 percent of its normal size. And then we bring out the final product. */
