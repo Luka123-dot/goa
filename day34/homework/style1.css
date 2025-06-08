@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100%;
+  min-height: 100vh;
+}
+header {
+  background-color: darkred;
+  color: white;
+  width: 100%;
+  min-height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: pink;
+}
+a:active {
+  background-color: lightgray;
+}
+section {
+  color: black;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+}
+section:hover {
+  color: darkblue;
+}
+section:active {
+  background-color: lightblue;
+}
+button {
+  background-color: darkblue;
+  color: white;
+  border-radius: 20px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+button:hover {
+  color: darkblue;
+  background-color: white;
+}
+button:active {
+  border-color: red;
+}
+input {
+  color: white;
+  border-radius: 20px gray solid;
+}
+input:hover {
+  border-color: green;
+}
+input:active {
+  color: red;
+}
+.A {
+  width: 75px;
+  height: 50px;
+}
+.A:hover {
+  background-color: lightblue;
+}
+.A:active {
+  color: red;
+}
+footer {
+  background-color: darkblue;
+}
+footer:hover {
+  color: gray;
+}
+footer:active {
+  color: red;
+}
+.B{
+    background-color: aqua;
+}
