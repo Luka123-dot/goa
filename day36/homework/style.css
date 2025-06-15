@@ -1,0 +1,38 @@
+div {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 4px solid black;
+    border-top: 3px white solid;
+    animation: broski 5s 3;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background: lightgray;
+    display: flex;
+    justify-content: center;
+    
+}
+
+@keyframes broski {
+    0%{
+        transform: rotate(0deg);
+    }
+    25%{
+        transform: rotate(90deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    75%{
+        transform: rotate(270deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
