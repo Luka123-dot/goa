@@ -22,13 +22,13 @@ body {
 }
 
 @keyframes moving {
-  0% {
-    transform: translate(0px, 0px);
+  0%{
+    transform: rotate(45deg);
   }
-  50% {
-    transform: translate(-25px, -50px);
+  50%{
+    transform: rotate(180deg);
   }
-  100% {
-    transform: translate(50px, 100px);
+  100%{
+    transform: rotate(360deg);
   }
 }
